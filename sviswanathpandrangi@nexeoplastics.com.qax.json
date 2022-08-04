@@ -1,0 +1,12 @@
+{
+  "username": "sviswanathpandrangi@nexeoplastics.com.qax",
+  "accessToken": "ef0735f34bb3edf77c84b3dd49b23da3d68a87e8896c0c4562c0f036f2a6709c30c4b7623e1bee02b0e084a9ad90a2d433af95d3eb435e6a058eb5b2de9ba5a76dbdfbbb392c6934ba1aec1c7ed8b457437f185bd38dfc539c871b79f96a0134d95eba037c25483d1f2c5edee72bd227beba9b9ea2e9:08084f41825e07637f61e25ed7e3ed75",
+  "instanceUrl": "https://nexeoplastics--qax.sandbox.my.salesforce.com",
+  "orgId": "00D8L0000004cnMUAQ",
+  "loginUrl": "https://test.salesforce.com/",
+  "refreshToken": "701b1cb67b1dcf3c5f443c246d26c99583eb148b868b1ad0b8a0b52a9e4e70ce12e2a222ff6b1f34dc1e21944c313c852b8f9a3e3cb7fe08ba9c4bba45d099bb5b88b34ee3d9319ea849be1c505509cb500735cfad74d92e6ff82da736:5f8756f9250672e7b444572dad45ebaa",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "55.0",
+  "instanceApiVersionLastRetrieved": "8/3/2022, 11:27:10 PM"
+}
